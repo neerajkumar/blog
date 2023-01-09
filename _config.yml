@@ -1,0 +1,68 @@
+# Site
+name: "Neeraj Kumar"
+title: "neeraj Kumar"
+description: "Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
+logo: 'assets/images/ProfilePic.jpg'
+favicon: 'assets/images/ProfilePic.jpg'
+baseurl: ""
+# google_analytics: 'UA-46278016-1'
+disqus: 'neerajkumar'
+mailchimp-list: false
+include: ["_pages"]
+permalink: /:title
+github_username:  neerajkumar
+
+# Authors
+authors:
+  neeraj:
+    name: Neeraj Kumar
+    display_name: Neeraj
+    gravatar: 2f93c896dd8c2003922ad854adae209d
+    email: neeraj.kumar@gmail.com
+    web: https://blog.neerajk.com
+    description: "Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
+
+# Build settings
+theme: mediumish
+    
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+remote_theme: wowthemesnet/mediumish-theme-jekyll
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 3
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+#adsense-data-ad-client: "ca-pub-3412143450191416"
+#adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
