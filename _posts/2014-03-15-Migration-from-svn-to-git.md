@@ -6,9 +6,6 @@ categories: [ Ruby, Git, Svn ]
 tags: [ruby, git, svn]
 image: assets/images/svn.png
 description: "I am a git lover, not svn. But, when I started my programming, svn was so popular and widespread. But the discovery of git pushed the paradigm shift in world of version control."
-hidden: true
-featured: true
-rating: 3.5
 ---
 
 I am a git lover, not svn. But, when I started my programming, svn was so popular and widespread. But the discovery of git pushed the paradigm shift in world of version control. Git is better than svn in lot of senses which could easily be delineated with the fact that most of the open source contributions and repositories are found on <a href='https://github.com'>Github</a>. <a href='https://github.com'>Github</a> could be recognized as the UI interface for git version control. 
@@ -19,13 +16,13 @@ Lets say your project name is dummyapp and its residing on svn say `http://svn/O
 
 1). Please go to your local svn copy on your local workstation. 
 
-```
+```shell
 cd PATH_TO_LOCAL_SVN_COPY
 ```
  
 2). Create a file say authors-transform.txt which will be having list of all users of current svn dummyapp application.
 
-```
+```shell
 svn log -q | awk -F '|' '/^r/ {sub("^ ", "", $2); sub(" $", "", $2); print $2" = "$2" <"$2">"}' | sort -u > authors-transform.txt
 ```
 
@@ -33,7 +30,7 @@ This command will fetch all users who have made any commit to dummyapp svn appli
 
 3). Now, install git-svn on your system. 
 
-```
+```shell
 sudo apt-get install git-svn (on linux)
 ```
 
@@ -41,7 +38,7 @@ I am not sure about windows, but there will be any application to perform this t
 
 4). Now, execute the command 
 
-```
+```shell
 git svn clone svn://svn/Other/RubyOnRails/apps/dummyapp/trunk -A authors-transform.txt  ~/temp
 ```
 
@@ -49,13 +46,13 @@ This command will take relatively longer time as it fetches all history of the s
 
 5). Once step 4 is completed, go to temp directory (cd ~/temp). Create origin remote and assign it to github path.
 
-```
+```shell
 git remote add origin git@github.com:dummyapp.git
 ```
 
 6). Push the code to github.
 
-```
+```shell
 git push origin master
 ```
 

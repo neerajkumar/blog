@@ -6,8 +6,6 @@ categories: [ Ruby, Hubot, Capistrano ]
 tags: [ruby, rails, hubot, capistrano, basecamp, campfire]
 image: assets/images/hubot.jpg
 description: "Smart and Easy Deployment using Hubot"
-hidden: true
-featured: true
 rating: 1.5
 ---
 
@@ -17,20 +15,22 @@ Github is an invariably well-known name in the world of open source. Githut cons
 
 First of all, deploy a dummy app on heroku which could be initiated using this command. 
 
-```
+```shell
 gem install heroku
 ```
+
 I am assuming here that you are familiar some what with heroku and have created your profile and deployed some app on heroku. If not, please refer https://id.heroku.com/signup or https://devcenter.heroku.com/articles/git.
 Then setup the heroku app:
 
-```
+```shell
 heroku create --stack 
 git push heroku master 
 heroku ps:scale web=1
 ```
 
 Now, you will need to setup your HEROKU_URL variable. 
-```
+
+```shell
 heroku config:add HEROKU_URL=
 ```
 

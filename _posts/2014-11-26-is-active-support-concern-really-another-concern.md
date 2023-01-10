@@ -1,12 +1,14 @@
 ---
-template: article.jade
-title: Is ActiveSupport::Concern really Another Concern?
-date: 2014-11-26 00:09
+layout: post
+title:  "Is ActiveSupport::Concern really Another Concern?"
 author: neeraj
-aliases: []
-categories: [Ruby, Rails, ActiveSupport, ActiveSupport Concern]
+categories: [ Ruby, Rails, ActiveSupport, ActiveSupport Concern ]
 tags: [ruby, rails, active_support]
-excerpt: Is ActiveSupport::Concern really Another Concern?
+image: assets/images/as-concern.png
+description: "Is ActiveSupport::Concern really Another Concern?"
+hidden: true
+featured: true
+rating: 4.5
 ---
 
 In Ruby world, [Rails](guides.rubyonrails.org) is a well known web-framework and [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport) is an integrated component. [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport) is a ruby gem which comes with rails by default. But, we can also use this library or gem separately. [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport) is very easy to understand upto the extend that if you are planning to read the source code of rails, then start with [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport). So, today I am going to throw some light on [ActiveSupport::Concern](https://github.com/rails/rails/blob/master/activesupport/lib/active_support/concern.rb) which is also one of the component of [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport). Is ActiveSupport::Concern really Another Concern?

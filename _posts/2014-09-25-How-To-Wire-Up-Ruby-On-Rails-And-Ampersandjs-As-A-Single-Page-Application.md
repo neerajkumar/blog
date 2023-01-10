@@ -1,12 +1,11 @@
 ---
-template: article.jade
-title: How To Wire up Ruby on Rails and Ampersand.js As a Single Page Application
-date: 2014-09-25 13:36
+layout: post
+title:  "How To Wire up Ruby on Rails and Ampersand.js As a Single Page Application"
 author: neeraj
-aliases: []
-categories: [Ruby, Rails, Ampersand.js, Single Page Application, SPA]
+categories: [ Ruby, Rails, Ampersand.js, Single Page Application, SPA ]
 tags: [ruby, rails, ampersand.js, spa, git]
-excerpt: How To Wire up Ruby on Rails and Ampersand.js As a Single Page Application
+image: assets/images/ampersand.png
+description: "How To Wire up Ruby on Rails and Ampersand.js As a Single Page Application"
 ---
 
 [Ampersand.js](http://ampersandjs.com) is a latest web framework like any other javascript framework e.g. [Angularjs](https://angularjs.org/). By definition, 
@@ -20,21 +19,26 @@ In this article, I am explaining you to build a simple single page application (
 ---
 Install the ampersand command line by running this in a terminal:
 
-```javascript
+```shell
 npm install ampersand -g
 ```
+
 then go into rails project directory and run the command
-```javascript
+
+```shell
 npm init 
 ```
+
 this will create package.json file in your rails root directory. Now
 
-```javascript
+```shell
 npm install browserify --save-dev
 
 npm install underscore --save 
 ```
+
 will automatically add the dependencies into package.json file. The package.json file will look like
+
 ```json
 {
   "name": "betfair_nav_demo",

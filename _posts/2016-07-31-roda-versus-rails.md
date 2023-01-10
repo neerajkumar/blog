@@ -21,6 +21,7 @@ I am assuming that you have some basic knowledge of Roda and have built at least
 
 ### Comparison
 ---
+
 |           Rails           |           Roda           |
 |:--------------------------|:------------------------:|
 | [Rails](guides.rubyonrails.org) is a stable framework which is very old and already having a large community support. Also it supports lot of different rubygems. | Most of rubygems are independent ruby libraries. Therefore all rubygems which are not tightly tied with Rails and activerecord can be used with [Roda](http://roda.jeremyevans.net/) too. Additionally, [Roda](http://roda.jeremyevans.net/) has its own compatible rubygems e.g. roda-i18n, newrelic-roda, roda-basic-auth, roda-rest_api, rodauth etc. But still these are not having proper documentation. |
@@ -29,6 +30,7 @@ I am assuming that you have some basic knowledge of Roda and have built at least
 | It is good for mid level as well as bigger application. | As compared over http://roda.jeremyevans.net/why.html with Sinatra, [Roda](http://roda.jeremyevans.net/) is good for small applications.|
 | People are having more interest to search about [Rails](guides.rubyonrails.org). | Interest over [Roda](http://roda.jeremyevans.net/) is significantly less.|
 <img src="/assets/images/roda-vs-rails.png" alt="Interest over time of Roda and Ruby on Rails" width="740" height="338" class='img-responsive'>
+
 
 ### Conclusion
 ---
