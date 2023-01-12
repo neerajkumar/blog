@@ -7,7 +7,6 @@ favicon: 'assets/images/ProfilePic.jpg'
 baseurl: ""
 # google_analytics: 'UA-46278016-1'
 disqus: 'neerajkumar'
-mailchimp-list: false
 include: ["_pages"]
 permalink: /:title
 github_username:  neerajkumar
