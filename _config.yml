@@ -23,6 +23,7 @@ authors:
     description: "Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
 
 # Build settings
+remote_theme: neerajkumar/mediumish-theme-jekyll
 theme: mediumish
     
 # Plugins
@@ -33,7 +34,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-remote_theme: neerajkumar/mediumish-theme-jekyll
     
 # Archives
 jekyll-archives:
