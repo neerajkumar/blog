@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/neerajkumar/mediumish-theme-jekyll.git
-  revision: 7e272d46694834a99a9ff719a824f5f5044410a9
+  revision: 7e13a0c6764d1f089e1614c1927abae1005e0cd0
   specs:
     mediumish (0.0.1)
       jekyll (>= 3.5, < 5.0)
@@ -210,7 +210,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    listen (3.7.1)
+    listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
@@ -249,14 +249,9 @@ GEM
     terminal-table (1.6.0)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
-    tzinfo (2.0.5)
-      concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2022.7)
-      tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.2)
-    wdm (0.1.1)
 
 PLATFORMS
   x86_64-darwin-20
