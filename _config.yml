@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-remote_theme: wowthemesnet/mediumish-theme-jekyll
+remote_theme: neerajkumar/mediumish-theme-jekyll
     
 # Archives
 jekyll-archives:
