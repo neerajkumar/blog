@@ -23,7 +23,7 @@ authors:
     description: "Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
 
 # Build settings
-remote_theme: wowthemesnet/mediumish-theme-jekyll
+remote_theme: neerajkumar/mediumish-theme-jekyll@v0.0.1
 theme: mediumish
     
 # Plugins
