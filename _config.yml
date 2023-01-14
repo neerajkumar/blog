@@ -4,9 +4,8 @@ title: "Neeraj Kumar"
 description: "Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
 logo: 'assets/images/ProfilePic.jpg'
 favicon: 'assets/images/ProfilePic.jpg'
-url: "neerajkumar.github.io"
+url: "blog.neerajk.com"
 baseurl: ""
-# google_analytics: 'UA-46278016-1'
 disqus: 'neerajkumar'
 include: ["_pages"]
 permalink: /:title
