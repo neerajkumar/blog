@@ -23,7 +23,6 @@ authors:
 
 # Build settings
 remote_theme: neerajkumar/mediumish-theme-jekyll
-#theme: mediumish
     
 # Plugins
 plugins:
