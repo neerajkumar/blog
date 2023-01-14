@@ -1,6 +1,6 @@
 # Site
 name: "Neeraj Kumar"
-title: "neeraj Kumar"
+title: "Neeraj Kumar"
 description: "Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
 logo: 'assets/images/ProfilePic.jpg'
 favicon: 'assets/images/ProfilePic.jpg'
@@ -10,7 +10,6 @@ baseurl: ""
 disqus: 'neerajkumar'
 include: ["_pages"]
 permalink: /:title
-github_username:  neerajkumar
 
 # Authors
 authors:
@@ -23,8 +22,8 @@ authors:
     description: "Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
 
 # Build settings
-remote_theme: "https://github.com/neerajkumar/mediumish-theme-jekyll@v0.0.1"
-# theme: mediumish
+remote_theme: neerajkumar/mediumish-theme-jekyll@v0.0.1
+theme: mediumish
     
 # Plugins
 plugins:
