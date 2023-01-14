@@ -5,6 +5,7 @@ author: neeraj
 categories: [ Ruby ]
 image: assets/images/ruby-oci8.jpeg
 description: "Ruby-oci8 is a rubygem which we use to build the connection with oracle DB in your rails application."
+comments: true
 ---
 
 <a href="http://rubygems.org/gems/ruby-oci8">Ruby-oci8</a> is a rubygem which we use to build the connection with oracle DB in your rails application. But installation of <a href="http://rubygems.org/gems/ruby-oci8">ruby-oci8</a> on linux or mac is not easy, while its a bit tricky. When I started to configure it on my mac first time, it consumed the entire day to google and configure. Therefore, I am trying to explain you the local configuration and installation here. However this post is only for linux and mac, but not for windows.

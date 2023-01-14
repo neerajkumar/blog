@@ -9,6 +9,7 @@ description: "Rails is old web framework with MVC architecture. It is more stabl
 hidden: true
 featured: true
 rating: 4.5
+comments: true
 ---
 
 Few days back, I heard about [Roda](http://roda.jeremyevans.net/) which could suppose to be a replacement of [Rails](guides.rubyonrails.org). [Roda](http://roda.jeremyevans.net/) is a routing tree web toolkit, designed for building fast and maintainable web applications in ruby. The creator of [Roda](http://roda.jeremyevans.net/) is [Jeremy Evans](https://github.com/jeremyevans). ```Rails is dead``` we hear it every years and it is more widespread after twitter's jump from [Rails](guides.rubyonrails.org) to Scala. 
