@@ -6,6 +6,7 @@ categories: [ Ruby, Git, Svn ]
 tags: [ruby, git, svn]
 image: assets/images/svn.png
 description: "I am a git lover, not svn. But, when I started my programming, svn was so popular and widespread. But the discovery of git pushed the paradigm shift in world of version control."
+comments: true
 ---
 
 I am a git lover, not svn. But, when I started my programming, svn was so popular and widespread. But the discovery of git pushed the paradigm shift in world of version control. Git is better than svn in lot of senses which could easily be delineated with the fact that most of the open source contributions and repositories are found on <a href='https://github.com'>Github</a>. <a href='https://github.com'>Github</a> could be recognized as the UI interface for git version control. 

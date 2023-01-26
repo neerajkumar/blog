@@ -6,6 +6,7 @@ categories: [ Ruby, Rails, ActiveRecord, ActiveResource, ActiveResourceChangeabl
 tags: [ruby, rails, ActiveRecord, ActiveResource, ActiveResourceChangeable]
 image: assets/images/activerecord.jpeg
 description: "ActiveRecord and ActiveResource are homogeneous in nature. But ActiveResource is reserved for APIs. ActiveResourceChangeable follows ActiveRecord's pattern and provides the changes of different attributes of ActiveResource object."
+comments: true
 ---
 
 As [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) provides you to get all the changes of your unsaved object, [active_resource_changeable](https://rubygems.org/gems/active_resource_changeable) gem also serves the same purpose by calling its ```changes``` method.

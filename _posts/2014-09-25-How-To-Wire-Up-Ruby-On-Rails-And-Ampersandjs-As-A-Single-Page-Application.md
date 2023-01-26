@@ -6,6 +6,7 @@ categories: [ Ruby, Rails, Ampersand.js, Single Page Application, SPA ]
 tags: [ruby, rails, ampersand.js, spa, git]
 image: assets/images/ampersand.png
 description: "How To Wire up Ruby on Rails and Ampersand.js As a Single Page Application"
+comments: true
 ---
 
 [Ampersand.js](http://ampersandjs.com) is a latest web framework like any other javascript framework e.g. [Angularjs](https://angularjs.org/). By definition, 

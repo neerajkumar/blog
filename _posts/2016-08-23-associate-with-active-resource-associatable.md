@@ -6,6 +6,7 @@ categories: [ Ruby, Rails, ActiveRecord, ActiveResource, ActiveResourceAssociata
 tags: [ruby, rails, ActiveRecord, ActiveResource, ActiveResourceAssociatable]
 image: assets/images/activeresource.png
 description: "ActiveRecord and ActiveResource are homogeneous in nature. But ActiveResource is reserved for APIs. ActiveResourceAssociatable follows ActiveRecord's pattern and provides similar association pattern. However it could be achieved by customized methods in models, but ActiveResourceAssociatable provides smarter way. Because world is expanding with smarter folks and a smart folk adopts smarter way of working... "
+comments: true
 ---
 
 A communication of a web app with others is not a surprise, but it is the demand of mobile world's era. Because new apps want to maintain a centralized DB which could be shared with other apps very easily and very frequently. Recently, I also worked on a similar distributed web app which provided me an idea to implement a rubygem. 

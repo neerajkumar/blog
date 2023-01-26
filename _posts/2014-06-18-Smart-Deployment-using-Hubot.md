@@ -7,6 +7,7 @@ tags: [ruby, rails, hubot, capistrano, basecamp, campfire]
 image: assets/images/hubot.jpg
 description: "Smart and Easy Deployment using Hubot"
 rating: 1.5
+comments: true
 ---
 
 Github is an invariably well-known name in the world of open source. Githut consistently provides a propitious and favorable platforms for any betterment, reform or innovation in the technology which could also discern as an your open source contribution. <a href='https://hubot.github.com'>Hubot</a> is also one of such examples which posses the sovereign potential to metamorphose the process of deployment of rails apps. I came across the term hubot last year and I also heard that numerous enter-prize level organizations benefiting their processes by hubot. My curiosity enabled me up-to the extent that now I am writing a blog :).
