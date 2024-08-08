@@ -1,7 +1,7 @@
 # Site
 name: "Neeraj Kumar"
 title: "Neeraj Kumar"
-description: "Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
+description: "ReactJs, NodeJs, Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
 logo: 'assets/images/ProfilePic.jpg'
 favicon: 'assets/images/ProfilePic.jpg'
 url: "https://blog.neerajk.com"
@@ -19,7 +19,7 @@ authors:
     email: neeraj.kumar@gmail.com
     web: https://blog.neerajk.com
     twitter: https://twitter.com/bundlexec
-    description: "Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
+    description: "ReactJs, NodeJs, Ruby on Rails Expert, Architect & Evangelist | Full Stack Web Developer | Programmer | Open Source Contributor | RubyConf Speaker"
 
 # Build settings
 remote_theme: neerajkumar/mediumish-theme-jekyll
