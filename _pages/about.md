@@ -6,9 +6,11 @@ permalink: /about
 <div class="container">
 	<div class="row">
 		<div class="col-md-10">
-			I love to code, I love to write Ruby codes, I love programming and I love to solve programming challenges. I like to help people with the help of my past experiences. I also like to learn by other's way of thinking and coding. I believe I have enough and pertinent energy, gravitas and strength to learn and adopt which enables me to play a good team member role as well as sovereign contributor. 
+		I am passionate about coding and programming, particularly with Ruby, ReactJs and NodeJs. Solving programming challenges and helping others through my past experiences brings me great satisfaction. I am always eager to learn from others' approaches and coding styles, which I believe enhances my abilities as both a team member and an independent contributor.
 
-			I have contributed in open source and will always love to contribute because I believe that it hones my skills by the exposure and interaction of other's style of coding. I have presented in <a href="http://rubyconfindia.org/2010/">RubyConfIndia2010</a> on <a href="http://www.slideshare.net/neerajkumar09/the-ruby-on-rails-i18n-core-api">The Ruby On Rails I18n Core Api</a>. I have developed many web applications using ruby on rails, angular.js, ampersand.js etc. I am always open for innovations, new ideas and new technologies and I am extensively interested in design, performance, efficacious coding practices and, specially, Big Data. 
+		My extensive experience and enthusiasm for learning and adapting enable me to excel in various roles. I have actively contributed to open source projects, as I believe this practice sharpens my skills through exposure to diverse coding styles and collaborative problem-solving.
+
+		I had the privilege of presenting at <a href="http://rubyconfindia.org/2010/">RubyConfIndia2010</a> on <a href="http://www.slideshare.net/neerajkumar09/the-ruby-on-rails-i18n-core-api">The Ruby On Rails I18n Core Api</a>. Throughout my career, I have developed numerous web applications using Ruby on Rails, ReactJs, NodeJs. I am always open to innovation, new ideas, and emerging technologies. My interests particularly lie in design, performance, effective coding practices.
 			<br/><br/>
 
 			<h4>Open Source Contribution</h4>
