@@ -327,7 +327,7 @@ permalink: /about
 			<div class="sticky-top sticky-top-80">
 				<h5>Buy me a coffee</h5>
 				<div>
-					<a target="_blank" href="ko-fi.com/neerajk" class="btn btn-danger">ko-fi.com/neerajk</a>
+					<a target="_blank" href="https://ko-fi.com/neerajk" class="btn btn-danger">ko-fi.com/neerajk</a>
 				</div>
 				<div>
 					<strong>
